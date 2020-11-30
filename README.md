@@ -17,6 +17,14 @@
 
 ### スマートフォンアプリおよびWebサイトのサーバーサイド開発(2019/10~現在)
 
+#### 使用した技術
+* Kotlin 1.4
+* Java 11
+* Spring Boot 2.1.1.RELEASE
+* AWS(CloudFormationによるリソース管理。ECS(Fargate)やElastiCache、DynamoDBなどを使用。)
+* MySQL
+* Redis
+
 #### 担当内容
 * サーバーサイドチームリーダーとして要件定義、設計、開発、テストを経験。
 * 開発用のベース環境構築。
