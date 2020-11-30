@@ -32,3 +32,12 @@ KMS | 対称キーのみ使用経験あり。Java SDKを使用した暗号化お
 CloudWatch | 監視内容に応じたメトリクス、アラームの作成が可能。CloudWatch Synthetics、Chatbot、SNSを組み合わせたメール通知、Slack通知の仕組みの作成経験あり。
 Lambda | CloudWatchアラームによって発火するエラー通知処理の作成経験あり。
 その他使用経験のあるリソース | ALB, EC2, TargetGroup, SecurityGroup, IAM, CloudFront, WAF, S3など。
+
+### DB
+
+名称 | 技術レベル
+-- | --
+MySQL | テーブル設計が可能。Java Persistence APIまたはDoma2を用いたデータベース連携処理を実装可能。
+DynamoDB | 使用目的に応じたテーブル設計(項目定義、GSI設定、インデックス設定)が可能。Java SDKを使用したリクエスト処理を実装可能。
+Redis | 認証トークン管理およびAPIキャッシュの設計と実装の経験あり。Spring Data Redisを用いた連携処理を実装可能。
+Oracle Database | MyBatisを用いた簡単なSELECT処理の実装経験あり。
