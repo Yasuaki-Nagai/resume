@@ -41,3 +41,8 @@ MySQL | テーブル設計が可能。Java Persistence APIまたはDoma2を用�
 DynamoDB | 使用目的に応じたテーブル設計(項目定義、GSI設定、インデックス設定)が可能。Java SDKを使用したリクエスト処理を実装可能。
 Redis | 認証トークン管理およびAPIキャッシュの設計と実装の経験あり。Spring Data Redisを用いた連携処理を実装可能。
 Oracle Database | MyBatisを用いた簡単なSELECT処理の実装経験あり。
+
+### その他
+
+名称	技術レベル
+Docker	jarファイルのdockerイメージ化とECRプッシュ、ECSでの稼働経験有り。MySQL、Redis、AWS X-Rayコンテナの環境構築、docker composeの設定経験有り。
