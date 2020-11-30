@@ -44,5 +44,6 @@ Oracle Database | MyBatisを用いた簡単なSELECT処理の実装経験あり�
 
 ### その他
 
-名称	技術レベル
-Docker	jarファイルのdockerイメージ化とECRプッシュ、ECSでの稼働経験有り。MySQL、Redis、AWS X-Rayコンテナの環境構築、docker composeの設定経験有り。
+名称 | 技術レベル
+-- | --
+Docker | jarファイルのdockerイメージ化とECRプッシュ、ECSでの稼働経験有り。MySQL、Redis、AWS X-Rayコンテナの環境構築、docker composeの設定経験有り。
